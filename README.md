@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+#### 🤩 Fun Repo Stat:
 <img src="https://raw.githubusercontent.com/Arya121503/Arya121503/output/snake.svg" alt="Snake animation" />
 
 ###
