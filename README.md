@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- #### 🎮 My Games :
+
+![image](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) ![image](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white) -->
+
+
 #### 🍔 My Favorite Food & 🍵 Drinks:
 
 
 ![image](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 ![image](https://img.shields.io/badge/McDonald's-FBC817?style=for-the-badge&logo=McDonald's&logoColor=white) ![image](https://img.shields.io/badge/Grab-00B14F?style=for-the-badge&logo=grab&logoColor=white)
 
-#### 🎮 My Games :
-
-![image](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white) ![image](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
-![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 #### 🤜  My Group :
 ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
